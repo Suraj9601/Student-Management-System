@@ -67,7 +67,7 @@ npm install
 ## ▶ Run Project
 
 ```bash
-node app.js
+node server.js
 ```
 
 ---
