@@ -57,7 +57,7 @@ This project allows users to manage student records with full **CRUD operations*
 ##  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Student-Management-System.git
+git clone https://github.com/Suraj9601/Student-Management-System.git
 cd Student-Management-System
 npm install
 ```
